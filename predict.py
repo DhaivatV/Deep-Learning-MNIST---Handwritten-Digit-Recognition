@@ -27,4 +27,4 @@ def predict(img):
 
     # return pred.argmax()
 
-predict(cv2.imread('TestNumber.png'))
+predict(cv2.imread('test2.jpg'))
